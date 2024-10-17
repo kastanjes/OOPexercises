@@ -1,0 +1,14 @@
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\bin\Debug\net8.0\9.4.exe
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\bin\Debug\net8.0\9.4.deps.json
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\bin\Debug\net8.0\9.4.runtimeconfig.json
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\bin\Debug\net8.0\9.4.dll
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\bin\Debug\net8.0\9.4.pdb
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.AssemblyInfoInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.AssemblyInfo.cs
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.dll
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\refint\9.4.dll
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.pdb
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\9.4.genruntimeconfig.cache
+C:\Users\Sarah\oopexercises\oopexercises\9.branches\9.4\obj\Debug\net8.0\ref\9.4.dll
