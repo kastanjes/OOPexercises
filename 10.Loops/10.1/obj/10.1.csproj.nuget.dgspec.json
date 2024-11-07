@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.Loops\\10.1\\10.1.csproj": {}
+    "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.loops\\10.1\\10.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.Loops\\10.1\\10.1.csproj": {
+    "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.loops\\10.1\\10.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.Loops\\10.1\\10.1.csproj",
+        "projectUniqueName": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.loops\\10.1\\10.1.csproj",
         "projectName": "10.1",
-        "projectPath": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.Loops\\10.1\\10.1.csproj",
+        "projectPath": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.loops\\10.1\\10.1.csproj",
         "packagesPath": "C:\\Users\\Sarah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.Loops\\10.1\\obj\\",
+        "outputPath": "C:\\Users\\Sarah\\oopexercises\\oopexercises\\10.loops\\10.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sarah\\AppData\\Roaming\\NuGet\\NuGet.Config"

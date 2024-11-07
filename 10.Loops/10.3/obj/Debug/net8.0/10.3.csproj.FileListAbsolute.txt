@@ -1,0 +1,15 @@
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.AssemblyInfoInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.AssemblyInfo.cs
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.sourcelink.json
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\bin\Debug\net8.0\10.3.exe
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\bin\Debug\net8.0\10.3.deps.json
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\bin\Debug\net8.0\10.3.runtimeconfig.json
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\bin\Debug\net8.0\10.3.dll
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\bin\Debug\net8.0\10.3.pdb
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.dll
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\refint\10.3.dll
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.pdb
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\10.3.genruntimeconfig.cache
+C:\Users\Sarah\oopexercises\oopexercises\10.loops\10.3\obj\Debug\net8.0\ref\10.3.dll

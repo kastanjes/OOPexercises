@@ -1,0 +1,15 @@
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\bin\Debug\net8.0\11.10.exe
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\bin\Debug\net8.0\11.10.deps.json
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\bin\Debug\net8.0\11.10.runtimeconfig.json
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\bin\Debug\net8.0\11.10.dll
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\bin\Debug\net8.0\11.10.pdb
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.AssemblyInfoInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.AssemblyInfo.cs
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.sourcelink.json
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.dll
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\refint\11.10.dll
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.pdb
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\11.10.genruntimeconfig.cache
+C:\Users\Sarah\oopexercises\oopexercises\11.arrays\11.10\obj\Debug\net8.0\ref\11.10.dll
